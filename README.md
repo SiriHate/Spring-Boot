@@ -1,5 +1,5 @@
 # About:
-This repository houses three distinct projects developed using Spring Boot:
+This repository contains three distinct projects developed using Spring Boot:
 
 1. **SpringBoot1**
    - Spring Boot application without JpaRepository.
